@@ -64,4 +64,4 @@ This analysis can help hotel management:
 - Enhance marketing efforts for specific distribution channels and market segments
 
 ## Author
-Cansu beyaz
+Cansu Beyaz
